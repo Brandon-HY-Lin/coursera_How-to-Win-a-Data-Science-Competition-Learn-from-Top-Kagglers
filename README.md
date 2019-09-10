@@ -4,4 +4,5 @@ This repository contains programming assignments notebooks for the [course](http
 
 
 # Quiz Solutions provided by other users.
-[link](https://necromuralist.github.io/kaggle-competitions/)
+[link 1](https://static1.squarespace.com/static/5a4c161cfe54ef45b17aa18e/t/5ab4013b88251b7b684c6025/1521746286132/week2-part2.pdf)
+[link 2](https://necromuralist.github.io/kaggle-competitions/)
